@@ -1,0 +1,5 @@
+function getMessage () {
+     return "Code";
+}
+const str = getMessage();
+module.exports = getMessage;
