@@ -1,0 +1,5 @@
+const myRandomNumber = Math.random();
+ function getRandom() {
+     return Math.random();
+}
+module.exports = getRandom;
