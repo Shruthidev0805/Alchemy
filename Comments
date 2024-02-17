@@ -2,3 +2,9 @@
 const shoesCost = 49;
 
 module.exports = shoesCost;
+
+OR
+/*all shoes are on sale this week!*/
+const shoesCost = 49;
+
+module.exports = shoesCost;
