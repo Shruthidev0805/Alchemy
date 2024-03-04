@@ -1,0 +1,35 @@
+Exercise-1
+
+rain=true
+if(rain)
+{
+    console.log("Take an umbrella")
+}
+else
+{
+    console.log("Enjoy the sunshine")
+}
+
+Exercise-2
+
+homework=false
+if(homework)
+{
+    console.log("Great Job")
+}
+else
+{
+    console.log("Finish your homework before playing")
+}
+
+Exercise-3
+
+cookies=true
+if(cookies)
+{
+    console.log("Would you like a cookie?")
+}
+else
+{
+    console.log("Time to bake more cookies")
+}
