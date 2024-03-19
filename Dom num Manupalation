@@ -1,5 +1,6 @@
 <input id="num1">
 <input id="num2">
+<button onclick="resultfunction()">Add</button>
 <p id="result">Result</p>
 
 <script>
